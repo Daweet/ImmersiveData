@@ -1,2 +1,2 @@
 # ImmersiveData
-This folder contains codes from Immersive Data code bootcamp
+This folder contains codes, challenge and assignmnet codes, from Immersive Data bootcamp
